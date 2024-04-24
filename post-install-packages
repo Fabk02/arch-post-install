@@ -1,0 +1,14 @@
+-- ESSENTIALS --
+git
+nano
+
+-- GRAPHIC ESSENTIALS --
+xorg-server
+xorg-xinit
+i3-wm
+
+-- ADDONS --
+rofi
+thunar
+polybar
+xrvt-unicode
