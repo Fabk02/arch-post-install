@@ -18,8 +18,8 @@ bindsym $mod+Return exec urxvt
 #Kill focused window
 bindsym $mod+q kill
 
-#Start rofi
-# --- !!! TODO !!! --- #
+#Start rofi appmenu
+bindsym $mod+space exec "rofi-show drun -theme clean"
 
 #Keybindings for notifications
 # --- !!! TODO !!! --- #
